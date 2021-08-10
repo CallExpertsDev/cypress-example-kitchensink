@@ -1,4 +1,4 @@
-# Contributing
+## Contributing
 
 This repo contains the source code that is required to build [https://example.cypress.io](https://example.cypress.io).
 
